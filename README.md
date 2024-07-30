@@ -1,6 +1,6 @@
 ## Annekatrine Kirketerp-Møller
 ### Student at DTU, specializing in bioinformatics, personal interests include development of minor software projects, primarily benefitting the study start at DTU.
-Studying B.Sc. Life Science and Technology, specializing in bioinformatics on my 5th semester
+Studying B.Sc. Life Science and Technology, specializing in bioinformatics on my 5th semester <br>
 Currently also working as Coordinator of the Bachelor Studystart for B.Sc. Biotechnology
 
 
